@@ -1,0 +1,12 @@
+*{
+    background-color: antiquewhite;
+    text-align:  center;
+}
+
+.word{
+    margin: auto;
+    background-color: #ffd29c;
+    height: 100px;
+    width: 400px;
+}
+
